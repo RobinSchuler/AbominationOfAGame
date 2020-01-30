@@ -1,0 +1,17 @@
+110 480 spawn
+70 506 border links rechts pixel
+1 ngoals
+385 80 level landung
+576 576 levelSize * 100
+1 Backgrounds
+1 BackgroundFrames
+110 BackgroundScaling / 100
+295 450 spawn pos spoon mann
+2 number bots
+300 320
+420 205
+3 number archers
+507 522
+330 360
+110 240
+0 spawner

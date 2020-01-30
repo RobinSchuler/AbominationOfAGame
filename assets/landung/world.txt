@@ -1,0 +1,12 @@
+35 110 spawn
+10 590 border links rechts pixel
+1 ngoals
+580 65 level introspooner
+600 200 levelSize * 100
+1 Backgrounds
+1 BackgroundFrames
+200 BackgroundScaling / 100
+-200 900 spawn pos spoon mann
+0 number bots
+0 number archers
+0 spawner

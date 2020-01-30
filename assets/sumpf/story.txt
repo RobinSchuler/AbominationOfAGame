@@ -1,0 +1,17 @@
+10 text Me: "Oh god what happend here?"
+15 bewege -1 rechts
+20 bewege -1 stop
+60 text  Me: "I can't remember anything!"
+90 text  Me: "ANYTHING !!!"
+120 text  Me: "It's like beeing the main character in one of these horribly bad designed computergame!"
+132 bewege -1 links
+140 bewege -1 stop
+151 springe -1
+180 text *main character*: "I wonder if i should go explore that island?"
+195 bewege -1 rechts
+205 springe -1
+230 text use W A S D to move, Space to jump
+260 bewege -1 links
+270 text leftclick to equip/unequip the floating tyre
+330 bewege -1 stop
+350 gehezu level landung

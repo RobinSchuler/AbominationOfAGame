@@ -1,0 +1,15 @@
+30 450 spawn
+65 115 goal
+0 500 border links rechts
+400 766 levelSize * 100
+1 Backgrounds
+1 BackgroundFrames
+150 BackgroundScaling / 100
+100 450 spawn pos spoon mann
+2 number bots
+100 300 x/y bot 1
+200 300 x/y bot 2
+2 number archers
+100 300 x/y bot 1
+200 300 x/y bot 2
+0 spawner

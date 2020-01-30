@@ -1,0 +1,16 @@
+300 240 spawn
+220 1300 border links rechts pixel
+2 ngoals
+1051 375 level berg
+1111 234 level berg
+2000 800 levelSize * 100
+2 Backgrounds
+1 BackgroundFrames
+110 BackgroundScaling / 100
+522 201 spawn pos spoon mann
+0 number bots
+0 number archers
+2 spawner 
+30 730 200 10 1 sec x y max type
+15 620 200 5 0 sec x y max type
+

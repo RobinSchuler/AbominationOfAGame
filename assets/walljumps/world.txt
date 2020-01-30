@@ -1,0 +1,12 @@
+200 200 spawn
+159 634 border links rechts pixel
+1 ngoals
+312 257 level gegner1
+800 400 levelSize * 100
+1 Backgrounds
+1 BackgroundFrames
+200 BackgroundScaling / 100
+500 200 spawn pos spoon mann
+0 number bots
+0 number archers
+0 spawner

@@ -1,0 +1,19 @@
+50 150 spawn
+45 550 border links rechts pixel
+1 ngoals
+545 172 level world02
+1500 600 levelSize * 100
+2 Backgrounds
+1 BackgroundFrames
+110 BackgroundScaling / 100
+460 60 spawn pos spoon mann
+0 number bots
+2 number archers
+120 40 posxy
+180 135
+4 spawner 
+5 200 170 10 0 sec x y max type
+5 270 130 10 0 sec x y max type
+5 150 40 10 0 sec x y max type
+5 460 60 10 0 sec x y max type
+

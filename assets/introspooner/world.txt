@@ -1,0 +1,12 @@
+230 200 spawn
+160 1179 border links rechts pixel
+1 ngoals
+1138 159 level inwolkenfloaten
+1300 300 levelSize * 100
+1 Backgrounds
+1 BackgroundFrames
+200 BackgroundScaling / 100
+370 90 spawn pos spoon mann
+0 number bots
+0 number archers
+0 spawner
